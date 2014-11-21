@@ -2,9 +2,9 @@
 
 ![Wild Cherry](images/wild-cherry.gif)
 
-> A cute, emoji inspired theme for [Zsh](http://www.zsh.org/) & [iTerm](http://www.iterm2.com/)
+> A fairy-tale inspired theme for [Zsh](http://www.zsh.org/) & [iTerm](http://www.iterm2.com/)- with sister [Sublime](http://www.sublimetext.com) theme.
 
-![Sublime Preview](images/screenshot-iterm.png)
+![iTerm Preview](images/screenshot-iterm.png)
 
 > Git Princess is close to death.
 
@@ -39,4 +39,17 @@ Go to your `~/.zshrc` file and set `ZSH_THEME="wild-cherry"`. Finally, reload yo
 3. Click *Import...*
 4. Select the `src/wild-cherry.itermcolors` file
 5. Select the *wild cherry* from *Load Presets...*
+
+
+##Sublime
+
+![Sublime Preview](images/sublime.png)
+
+1. Download the files using the [[GitHub .zip download](https://github.com/mashaal/wild-cherry/archive/master.zip) option
+2. Add `wild-cherry.tmTheme` to your Sublime theme directory
+
+#### Activating the theme
+
+Go to `Preferences -> Color Scheme -> User` and select `Wild Cherry`.
+
 
