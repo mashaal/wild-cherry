@@ -43,7 +43,7 @@ Go to your `~/.zshrc` file and set `ZSH_THEME="wild-cherry"`. Finally, reload yo
 
 ##Sublime
 
-![Sublime Preview](images/sublime.png)
+![Sublime Preview](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/wild_cherry.png)
 
 1. Download the files using the [[GitHub .zip download](https://github.com/mashaal/wild-cherry/archive/master.zip) option
 2. Add `wild-cherry.tmTheme` to your Sublime theme directory
