@@ -4,7 +4,7 @@
 
 > A fairy-tale inspired theme for [Zsh](http://www.zsh.org/) & [iTerm](http://www.iterm2.com/)- with sister [Sublime](http://www.sublimetext.com) theme.
 
-![iTerm Preview](images/screenshot-iterm.png)
+![Full Preview](images/screenshot-iterm.png)
 
 > Git Princess is close to death.
 
@@ -12,15 +12,12 @@
  
 > Japanese Ogre appears on error. 
 
+# 
 
-
-##Zsh & iTerm
+##Zsh
 
 * This is a customized version of [agnoster](https://gist.github.com/3712874) and [remy](https://remysharp.com/2013/07/25/my-terminal-setup).
 * In order for this theme to render correctly, you will need a [Powerline-patched font](https://gist.github.com/1595572).
-
-
-###Zsh
 
 1. Download using the [GitHub .zip download](https://github.com/mashaal/wild-cherry/archive/master.zip) option and unzip them.
 2. Move `src/wild-cherry.zsh-theme` file to [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/)'s theme folder: `oh-my-zsh/themes/wild-cherry`.
@@ -30,7 +27,9 @@
 Go to your `~/.zshrc` file and set `ZSH_THEME="wild-cherry"`. Finally, reload your terminal.
 
 
-###iTerm
+##iTerm
+
+![iTerm Preview](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/wild_cherry.png)
 
 ##### Activating theme
 
@@ -42,8 +41,6 @@ Go to your `~/.zshrc` file and set `ZSH_THEME="wild-cherry"`. Finally, reload yo
 
 
 ##Sublime
-
-![Sublime Preview](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/wild_cherry.png)
 
 1. Download the files using the [[GitHub .zip download](https://github.com/mashaal/wild-cherry/archive/master.zip) option
 2. Add `wild-cherry.tmTheme` to your Sublime theme directory
