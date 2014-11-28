@@ -2,9 +2,9 @@
 
 ![Wild Cherry](images/wild-cherry.gif)
 
-> A fairy-tale inspired theme for [Zsh](http://www.zsh.org/) & [iTerm](http://www.iterm2.com/)- with sister [Sublime](http://www.sublimetext.com) theme.
+> A fairy-tale inspired theme for [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), & [Sublime](http://www.sublimetext.com).
 
-![Full Preview](images/screenshot-iterm.png)
+![Wild Cherry](images/wild-cherry.png)
 
 > Git Princess is close to death.
 
@@ -29,7 +29,7 @@ Go to your `~/.zshrc` file and set `ZSH_THEME="wild-cherry"`. Finally, reload yo
 
 ##iTerm
 
-![iTerm Preview](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/wild_cherry.png)
+![iTerm Preview](images/iterm.png)
 
 ##### Activating theme
 
@@ -44,9 +44,14 @@ Go to your `~/.zshrc` file and set `ZSH_THEME="wild-cherry"`. Finally, reload yo
 
 ![Sublime Preview](images/sublime.png)
 
+The easiest way to install `Wild Cherry` is via the [Colorsublime](https://github.com/Colorsublime/Colorsublime-Plugin) plugin.
 
-1. Download the files using the [[GitHub .zip download](https://github.com/mashaal/wild-cherry/archive/master.zip) option
-2. Add `wild-cherry.tmTheme` to your Sublime theme directory
+or...
+
+1. Download the files using the [GitHub .zip download](https://github.com/mashaal/wild-cherry/archive/master.zip) option
+2. Unzip the files and rename the folder to Wild Cherry
+3. Find your Packages directory using the menu item Preferences -> Browse Packages...
+4. Copy the folder into your Sublime Text Packages directory
 
 #### Activating the theme
 
