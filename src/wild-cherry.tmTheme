@@ -23,11 +23,11 @@ https://github.com/mashaal/wild-cherry
 				<key>lineHighlight</key>
 				<string>#955ad6</string>
 				<key>selection</key>
-				<string>#955ad6</string>
+				<string>#61002b</string>
 				<key>findHighlight</key>
-				<string>#bd1c14</string>
+				<string>#61002b</string>
 				<key>findHighlightForeground</key>
-				<string>#000000</string>
+				<string>#F8F8F0</string>
 				<key>selectionBorder</key>
 				<string>#222218</string>
 				<key>activeGuide</key>
