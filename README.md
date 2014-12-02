@@ -1,10 +1,8 @@
 #Wild Cherry
 
-![Wild Cherry](images/wild-cherry.gif)
-
 > A fairy-tale inspired theme for [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), & [Sublime](http://www.sublimetext.com).
 
-![Wild Cherry](images/wild-cherry.png)
+![Wild Cherry](images/wild-cherry.gif)
 
 > Git Princess is close to death.
 
@@ -12,7 +10,9 @@
  
 > Japanese Ogre appears on error. 
 
-# 
+![Wild Cherry](images/wild-cherry.png)
+
+ 
 
 ##Zsh
 
