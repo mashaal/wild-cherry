@@ -44,6 +44,7 @@ https://github.com/mashaal/wild-cherry
 				<string>stippled_underline</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Comment</string>
@@ -400,6 +401,39 @@ https://github.com/mashaal/wild-cherry
 				<string>#bd1c14</string>
 			</dict>
 		</dict>
+		<dict>
+            <key>name</key>
+            <string>SublimeLinter Gutter Mark</string>
+            <key>scope</key>
+            <string>sublimelinter.gutter-mark</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFFFFF</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>SublimeLinter Warning</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.warning</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DDB700</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>SublimeLinter Error</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.error</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#D02000</string>
+            </dict>
+        </dict>
 	</array>
 	<key>uuid</key>
 	<string>bea3c6c3-a779-45fa-8e59-a20ff6128e68</string>

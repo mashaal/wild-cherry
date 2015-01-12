@@ -1,5 +1,8 @@
 [
 
+// "layer0.tint": [32,23,38]
+// "layer0.tint": [74,19,134]
+
 //
 // TABS (REGULAR)
 //
@@ -195,42 +198,43 @@
     // Standard vertical scroll bar
     {
         "class": "scroll_bar_control",
-        "layer0.texture": "Theme - wild-cherry/Main/standard-scrollbar-vertical.png",
+        "layer0.tint": [30,21,36],
         "layer0.opacity": 1,
-        "layer0.inner_margin": [2, 6],
-        "blur": false
+        "layer0.inner_margin": 0,
+        "blur": true
     },
     // Standard horizontal scroll bar
     {
         "class": "scroll_bar_control",
         "attributes": ["horizontal"],
-        "layer0.texture": "Theme - wild-cherry/Main/standard-scrollbar-horizontal.png",
-        "layer0.inner_margin": [6, 2],
-        "blur": false
+        "layer0.tint": [30,21,36],
+        "layer0.inner_margin": 0,
+        "blur": true
     },
     // Standard scroll bar corner
     {
         "class": "scroll_corner_control",
-        "layer0.texture": "Theme - wild-cherry/Main/standard-scrollbar-corner.png",
-        "layer0.inner_margin": [2, 2],
-        "layer0.opacity": 1
+        "layer0.tint":[30,21,36],
+        "layer0.opacity": 1,
+        "layer0.inner_margin": 0
     },
     // Standard vertical scroll puck
     {
         "class": "puck_control",
-        "layer0.texture": "Theme - wild-cherry/Main/standard-puck-vertical.png",
+        "layer0.tint":[67,21,117], // auto complete SB
         "layer0.opacity": 1,
-        "layer0.inner_margin": [0, 10],
-        "content_margin": [8, 12],
+        "layer0.inner_margin": 0,
+        "content_margin": [4,0],
         "blur": false
     },
     // Standard horizontal scroll puck
     {
         "class": "puck_control",
         "attributes": ["horizontal"],
-        "layer0.texture": "Theme - wild-cherry/Main/standard-puck-horizontal.png",
-        "layer0.inner_margin": [10, 0],
-        "content_margin": [12, 8],
+        "layer0.tint":[67,21,117],
+        "layer0.opacity": 1,
+        "layer0.inner_margin": 0,
+        "content_margin": [12,4],
         "blur": false
     },
 
@@ -360,7 +364,7 @@
     // Tooltip container
     {
         "class": "tool_tip_control",
-        "layer0.texture": "Theme - wild-cherry/Main/tooltip.png",
+        "layer0.tint": [255,255,202],
         "layer0.inner_margin": 1,
         "layer0.opacity": 0.95,
         "content_margin": 3
@@ -378,7 +382,7 @@
     // Status bar container
     {
         "class": "status_bar",
-        "layer0.texture": "Theme - wild-cherry/Main/status-bar-background.png",
+        "layer0.tint": [39,29,46],
         "layer0.opacity": 1,
         "layer0.inner_margin": 2,
         "content_margin": [8, 4]
@@ -404,7 +408,7 @@
     // Sidebar container
     {
         "class": "sidebar_container",
-        "layer0.texture": "Theme - wild-cherry/Main/sidebar-bg.png",
+        "layer0.tint": [32,23,38],
         "layer0.opacity": 1,
         "layer0.inner_margin": [1, 1, 2, 1],
         "content_margin": [0, 10, 1, 0]
@@ -420,7 +424,7 @@
     // Sidebar rows
     {
         "class": "tree_row",
-        "layer0.texture": "Theme - wild-cherry/Main/sidebar-row-selected.png",
+        "layer0.tint": [74, 19, 134],
         "layer0.opacity": 0
     },
     // Sidebar row selected
@@ -540,7 +544,7 @@
         "class": "disclosure_button_control",
         "content_margin": 8,
         "layer0.texture": "Theme - wild-cherry/Main/group-closed.png",
-        "layer0.opacity": 0, // hide for now until we get better icons
+        "layer0.opacity": 0, // looks better this way
         "layer0.inner_margin": 0
     },
     {
@@ -558,7 +562,7 @@
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "layer0.texture": "Theme - wild-cherry/Main/group-open.png",
-        "layer0.opacity": 0 // hide for now until we get better icons
+        "layer0.opacity": 0 // looks better this way
     },
     {
         "class": "disclosure_button_control",
@@ -579,7 +583,7 @@
         "layer0.texture": "Theme - wild-cherry/Main/folder_closed.png",
         "layer0.opacity": 1,
         "layer0.inner_margin": 0,
-        "content_margin": [7,0] // hide for now until we get better icons
+        "content_margin": 8 // un-hide for now but we need a better icons
     },
     // Sidebar folder opened
     {
@@ -588,7 +592,7 @@
         "layer0.texture": "Theme - wild-cherry/icons/folder_open.png",
         "layer0.opacity": 1,
         "layer0.inner_margin": -5,
-        "content_margin": 8 // hide for now until we get better icons
+        "content_margin": 8 // un-hide for now but we need a better icons
     },
 //
 // STANDARD TEXT BUTTONS
@@ -598,10 +602,10 @@
     {
         "class": "button_control",
         "layer0.texture": "Theme - wild-cherry/Main/btn-large.png",
-        "layer0.inner_margin": [5, 6],
         "min_size": [75, 0],
+        "layer0.inner_margin": [5,6],
         "layer0.opacity": 1,
-        "content_margin": [6, 8],
+        "content_margin": [6,8],
     },
     // Hover button state
     {
@@ -621,14 +625,17 @@
 //
 // TEXT INPUT FIELD
 //
-
     // Text input field item
     {
         "class": "text_line_control",
-        "layer0.texture": "Theme - wild-cherry/Main/text-field.png",
+        "layer0.tint": [39,29,46],
         "layer0.opacity": 1,
-        // "layer0.inner_margin": [4, 5, 4, 3],
-        "content_margin": [3,1,0,1]
+        // this controls both the search_panel & quick_panel ,we can give them more padding
+        // but the bottom buttons wont be aligned well with the search panel which does suck
+        //
+        // this also is effected by the line_padding options ,currently it works best with "3"
+        // differnet setting needs more settings/options to be created
+        "content_margin": [0,1,0,3]
     },
 
 //
@@ -638,21 +645,16 @@
     // Bottom panel background
     {
         "class": "panel_control",
-        "layer0.texture": "Theme - wild-cherry/Main/panel-background.png",
-        "layer0.inner_margin": 2,
+        "layer0.tint": [39,29,46],
         "layer0.opacity": 1,
-        "content_margin": [2, 3, 2, 1]
+        "content_margin": 0
     },
     // Quick panel background
     {
         "class": "overlay_control",
-        "layer0.texture": "Theme - wild-cherry/Main/quick-panel-background.png",
-        "layer0.inner_margin": [12, 6, 12, 15],
-        "layer0.opacity": 1,
-        "layer1.texture": "Theme - wild-cherry/Main/quick-panel-sections.png",
-        "layer1.inner_margin": [12, 40, 12, 19],
+        "layer1.tint": [30,21,36],
         "layer1.opacity": 1,
-        "content_margin": [11, 8, 11, 17]
+        "content_margin": 0
     },
 
 //
@@ -661,20 +663,19 @@
 
     {
         "class": "quick_panel",
-        "row_padding": [5, 2],
-        "layer0.tint": [33, 33, 33],
+        "row_padding": 8,
+        "layer0.tint": [30,21,36],
         "layer0.opacity": 1,
     },
     {
         "class": "quick_panel_row",
-        "layer0.texture": "Theme - wild-cherry/Main/quick-panel-row.png",
-        "layer0.inner_margin": 2,
+        "layer0.tint": [30,21,36],
         "layer0.opacity": 1
     },
     {
         "class": "quick_panel_row",
         "attributes": ["selected"],
-        "layer0.texture": "Theme - wild-cherry/Main/quick-panel-row-selected.png"
+        "layer0.tint": [74, 19, 134]
     },
     {
         "class": "quick_panel_label",
@@ -685,31 +686,30 @@
     },
     {
         "class": "quick_panel_path_label",
-        "fg": [140, 140, 140],
-        "match_fg": [255, 198, 0],
-        "selected_fg": [180, 180, 180],
-        "selected_match_fg": [255, 198, 0]
+        "fg": [255,255,255],
+        "match_fg": [255,255,255],
+        "selected_fg": [255,255,255],
+        "selected_match_fg": [255,255,255]
     },
     {
         "class": "quick_panel_score_label",
-        "fg": [126, 199, 239, 255],
-        "selected_fg": [166, 229, 255, 255]
+        "fg": [255,255,255],
+        "selected_fg": [255,255,255]
     },
 
 //
 // MINI QUICK PANEL
 //
 
-    {
+   {
         "class": "mini_quick_panel_row",
-        "layer0.texture": "Theme - wild-cherry/Main/quick-panel-row.png",
-        "layer0.inner_margin": 2,
+        "layer0.tint": [30,21,36],
         "layer0.opacity": 1
     },
     {
         "class": "mini_quick_panel_row",
         "attributes": ["selected"],
-        "layer0.texture": "Theme - wild-cherry/Main/quick-panel-row-selected.png"
+        "layer0.tint": [74, 19, 134]
     },
 
 //
@@ -718,13 +718,13 @@
 
     {
         "class": "popup_control",
-        "content_margin": 2,
+        "content_margin": 0,
         "layer0.tint": [43, 31, 51],
         "layer0.opacity": 1
     },
     {
         "class": "auto_complete",
-        "row_padding": [4, 5]
+        "row_padding": 5
     },
     {
         "class": "auto_complete_label",
@@ -735,9 +735,9 @@
     },
     {
         "class": "table_row",
-        "layer0.texture": "Theme - wild-cherry/Main/autocomplete-row-selected.png",
+        "layer0.tint": [74,19,134],
         "layer0.opacity": 0,
-        "layer0.inner_margin": [3, 1]
+        "layer0.inner_margin": 0
     },
     {
         "class": "table_row",
@@ -765,7 +765,7 @@
     {
         "class": "icon_button_control",
         "attributes": ["left"],
-        "layer0.texture": "Theme - wild-cherry/Main/btn-group-left.png",
+        "layer0.texture": "Theme - wild-cherry/Main/btn-group-left.png"
     },
     {
         "class": "icon_button_control",
@@ -776,7 +776,7 @@
     {
         "class": "icon_button_control",
         "attributes": ["right"],
-        "layer0.texture": "Theme - wild-cherry/Main/btn-group-right.png",
+        "layer0.texture": "Theme - wild-cherry/Main/btn-group-right.png"
     },
     {
         "class": "icon_button_control",
@@ -787,7 +787,7 @@
     {
         "class": "icon_button_control",
         "attributes": ["left", "right"],
-        "layer0.texture": "Theme - wild-cherry/Main/btn-small.png",
+        "layer0.texture": "Theme - wild-cherry/Main/btn-small.png"
     },
     {
         "class": "icon_button_control",
