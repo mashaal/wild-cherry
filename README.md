@@ -48,22 +48,16 @@ Go to your `~/.zshrc` file and set `ZSH_THEME="wild-cherry"`. Finally, reload yo
 
 The easiest way to install `Wild Cherry` is via the [Colorsublime](https://github.com/Colorsublime/Colorsublime-Plugin) plugin.
 
-or...
-
-1. Download the files using the [GitHub .zip download](https://github.com/mashaal/wild-cherry/archive/master.zip) option
-2. Unzip the files and rename the folder to Wild Cherry
-3. Find your Packages directory using the menu item Preferences -> Browse Packages...
-4. Copy the folder into your Sublime Text Packages directory
-
-#### Activating the theme
-
-Go to `Preferences -> Color Scheme -> User` and select `Wild Cherry`.
 
 ###UI
 
 ![Sublime Preview](images/sublime.jpg)
 
 * This is a customized version of the [Cobalt2](https://github.com/wesbos/cobalt2) UI.
+* Massive thanks to [ctf0](https://github.com/ctf0) for his help! :tophat:
+
+**Package Control coming soon!** In the meantime just copy the `Theme - wild-cherry` directory to your Sublime Packages directory.
+
 
 
 
