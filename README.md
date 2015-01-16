@@ -56,8 +56,7 @@ The easiest way to install `Wild Cherry` is via the [Colorsublime](https://githu
 * This is a customized version of the [Cobalt2](https://github.com/wesbos/cobalt2) UI.
 * Massive thanks to [ctf0](https://github.com/ctf0) for his help! :tophat:
 
-**Package Control coming soon!** In the meantime just copy the `Theme - wild-cherry` directory to your Sublime Packages directory.
-
+**Package Control submitted! **
 
 
 
