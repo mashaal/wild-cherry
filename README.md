@@ -20,7 +20,7 @@
 * In order for this theme to render correctly, you will need a [Powerline-patched font](https://gist.github.com/1595572).
 
 1. Download using the [GitHub .zip download](https://github.com/mashaal/wild-cherry/archive/master.zip) option and unzip them.
-2. Move `src/wild-cherry.zsh-theme` file to [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/)'s theme folder: `oh-my-zsh/themes/wild-cherry`.
+2. Move `zsh/wild-cherry.zsh-theme` file to [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/)'s theme folder: `oh-my-zsh/themes/wild-cherry`.
 
 ##### Activating theme
 
@@ -36,7 +36,7 @@ Go to your `~/.zshrc` file and set `ZSH_THEME="wild-cherry"`. Finally, reload yo
 1. *iTerm2 > Preferences > Profiles > Colors Tab*
 2. Click *Load Presets...*
 3. Click *Import...*
-4. Select the `src/wild-cherry.itermcolors` file
+4. Select the `iterm/wild-cherry.itermcolors` file
 5. Select the *wild cherry* from *Load Presets...*
 
 
@@ -56,7 +56,7 @@ The easiest way to install `Wild Cherry` is via the [Colorsublime](https://githu
 * This is a customized version of the [Cobalt2](https://github.com/wesbos/cobalt2) UI.
 * Massive thanks to [ctf0](https://github.com/ctf0) for his help! :tophat:
 
-**Package Control submitted! **
+**Package Control coming soon!**
 
 
 
