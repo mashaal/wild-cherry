@@ -2,7 +2,7 @@ Congratulations, you have saved the princess.
 
 You may need to update your preferences:
 "theme": "wild-cherry.sublime-theme",
-"color_scheme": "Packages//Wild Cherry/wild-cherry.tmTheme"
+"color_scheme": "Packages/Wild Cherry/wild-cherry.tmTheme"
 
            .
      ...  :``..':

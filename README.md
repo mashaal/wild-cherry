@@ -2,7 +2,7 @@
 
 > A fairy-tale inspired theme for [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), & [Sublime](http://www.sublimetext.com).
 
-![Wild Cherry](images/cherry.jpg)
+![Wild Cherry](images/wild-cherry.jpg)
 
 > :skull: Git Princess is close to death.
 
@@ -10,7 +10,7 @@
  
 > :japanese_ogre: Japanese Ogre appears on error. 
 
-![Wild Cherry](images/wild-cherry.jpg)
+![Wild Cherry](images/wild-cherry.gif)
 
  
 
@@ -28,8 +28,6 @@ Go to your `~/.zshrc` file and set `ZSH_THEME="wild-cherry"`. Finally, reload yo
 
 ##iTerm
 
-![iTerm Preview](images/iterm.png)
-
 ##### Activating theme
 
 1. *iTerm2 → `Preferences` → `Profiles` → `Colors` Tab*
@@ -41,16 +39,14 @@ Go to your `~/.zshrc` file and set `ZSH_THEME="wild-cherry"`. Finally, reload yo
 
 ##Sublime
 
-###Color Scheme
-
 ![Sublime Preview](images/sublime.png)
+
+###Color Scheme
 
 The easiest way to install `Wild Cherry` is via the [Colorsublime](https://github.com/Colorsublime/Colorsublime-Plugin) plugin.
 
 
 ###UI
-
-![Sublime Preview](images/sublime.jpg)
 
 * This is a customized version of the [Cobalt2](https://github.com/wesbos/cobalt2) UI.
 * Massive thanks to [ctf0](https://github.com/ctf0) for his help! :tophat:
