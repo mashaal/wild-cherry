@@ -55,4 +55,7 @@
 ```
 `color_scheme` defines how the code looks and `theme` defines how the sidebar, tabs, search, command palette work. 
 
+##Future? :crystal_ball:
+
+Want to give the princess a makeover? :lipstick: Fork- and submit a pull request! :ribbon:
 
