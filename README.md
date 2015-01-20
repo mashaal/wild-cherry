@@ -63,7 +63,7 @@ The easiest way to install `Wild Cherry` is via the [Colorsublime](https://githu
 
 ```
 "theme": "wild-cherry.sublime-theme",
-"color_scheme": "Packages/wild-cherry/wild-cherry.tmTheme"
+"color_scheme": "Packages//Wild Cherry/wild-cherry.tmTheme"
 ```
 `color_scheme` defines how the code looks and `theme` defines how the sidebar, tabs, search, command palette work. 
 
