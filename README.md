@@ -19,16 +19,15 @@
 * This is a customized version of [agnoster](https://gist.github.com/3712874) and [remy](https://remysharp.com/2013/07/25/my-terminal-setup).
 * In order for this theme to render correctly, you will need a [Powerline-patched font](https://gist.github.com/1595572).
 
+**Activating...**
+
 1. Move `zsh/wild-cherry.zsh-theme` file to [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/)'s theme folder: `oh-my-zsh/themes/wild-cherry`.
-
-##### Activating theme
-
-Go to your `~/.zshrc` file and set `ZSH_THEME="wild-cherry"`. Finally, reload your terminal.
+2. Go to your `~/.zshrc` file and set `ZSH_THEME="wild-cherry"`. Finally, reload your terminal.
 
 
 ##iTerm
 
-##### Activating theme
+**Activating...**
 
 1. *iTerm2 → `Preferences` → `Profiles` → `Colors` Tab*
 2. Click *`Load Presets...`*
@@ -44,7 +43,7 @@ Go to your `~/.zshrc` file and set `ZSH_THEME="wild-cherry"`. Finally, reload yo
 * This is a customized version of the [Cobalt2](https://github.com/wesbos/cobalt2) UI.
 * Massive thanks to [ctf0](https://github.com/ctf0) for his help! :tophat:
 
-### Package Control
+**Package Control**
 
 1. Open package control `tools` → `Command Palette` and type `Install Package`
 2. Search for `Wild Cherry` and hit enter
