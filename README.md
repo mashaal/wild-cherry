@@ -2,7 +2,7 @@
 
 > A fairy-tale inspired theme for [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), [Sublime](http://www.sublimetext.com), & [Atom](https://atom.io/).
 
-![Wild Cherry](images/wild-cherry.jpg)
+![Wild Cherry](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/wild-cherry.jpg)
 
 > :skull: Git Princess is close to death.
 
@@ -10,7 +10,7 @@
  
 > :japanese_ogre: Japanese Ogre appears on error. 
 
-![Wild Cherry](images/wild-cherry.gif)
+![Wild Cherry](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/wild-cherry.gif)
 
  
 
@@ -38,7 +38,7 @@
 
 ##Sublime
 
-![Sublime Preview](images/sublime.png)
+![Sublime Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/sublime.png)
 
 * This is a customized version of the [Cobalt2](https://github.com/wesbos/cobalt2) UI.
 * Massive thanks to [ctf0](https://github.com/ctf0) for his help! :tophat:
@@ -57,7 +57,7 @@
 
 ##Atom
 
-![Atom Preview](images/atom.jpg)
+![Atom Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/atom.jpg)
 
 I've used Atom's theme converter to convert the syntax theme- which is now added to this repository. 
 
