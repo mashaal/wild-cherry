@@ -43,7 +43,7 @@
 * This is a customized version of the [Cobalt2](https://github.com/wesbos/cobalt2) UI.
 * Massive thanks to [ctf0](https://github.com/ctf0) for his help! :tophat:
 
-**Package Control**
+**[View on Package Control](https://packagecontrol.io/packages/Wild%20Cherry)**
 
 1. Open package control `tools` → `Command Palette` and type `Install Package`
 2. Search for `Wild Cherry` and hit enter
@@ -58,6 +58,8 @@
 ##Atom
 
 ![Atom Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/atom.jpg)
+
+**[View on Atom Themes](https://atom.io/themes/wild-cherry)**
 
 I've used Atom's theme converter to convert the syntax theme- which is now added to this repository. 
 
