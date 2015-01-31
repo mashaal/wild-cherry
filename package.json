@@ -1,0 +1,11 @@
+{
+  "name": "Wild Cherry",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A fairy-tale inspired theme",
+  "repository": "https://github.com/mashaal/wild-cherry",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
