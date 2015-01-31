@@ -57,6 +57,8 @@
 
 ##Atom
 
+![Atom Preview](images/atom.jpg)
+
 I've used Atom's theme converter to convert the syntax theme- which is now added to this repository. Unfortunately, I do not now how to convert the UI (not hugely familiar with Atom.) HELP!
 
 ##Future? :crystal_ball:
