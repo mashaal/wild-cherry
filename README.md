@@ -1,6 +1,6 @@
 #Wild Cherry
 
-> A fairy-tale inspired theme for [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), & [Sublime](http://www.sublimetext.com).
+> A fairy-tale inspired theme for [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), [Sublime](http://www.sublimetext.com), & [Atom}(https://atom.io/).
 
 ![Wild Cherry](images/wild-cherry.jpg)
 
@@ -54,6 +54,10 @@
 "color_scheme": "Packages/Wild Cherry/wild-cherry.tmTheme"
 ```
 `color_scheme` defines how the code looks and `theme` defines how the sidebar, tabs, search, command palette work. 
+
+##Atom
+
+I've used Atom's theme converter to convert the syntax theme- which is now added to this repository. Unfortunately, I do not now how to convert the UI (not hugely familiar with Atom.) HELP!
 
 ##Future? :crystal_ball:
 
