@@ -1,6 +1,6 @@
 #Wild Cherry
 
-> A fairy-tale inspired theme for [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), [Sublime](http://www.sublimetext.com), & [Atom}(https://atom.io/).
+> A fairy-tale inspired theme for [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), [Sublime](http://www.sublimetext.com), & [Atom](https://atom.io/).
 
 ![Wild Cherry](images/wild-cherry.jpg)
 
