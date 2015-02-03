@@ -1,6 +1,6 @@
 #Wild Cherry
 
-> A fairy-tale inspired theme for [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), [Sublime](http://www.sublimetext.com), & [Atom](https://atom.io/).
+> A fairy-tale inspired theme for [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), [Sublime](http://www.sublimetext.com), [Atom](https://atom.io/), & [Mou](http://25.io/mou/)
 
 ![Wild Cherry](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/wild-cherry.jpg)
 
@@ -64,6 +64,15 @@
 I've used Atom's theme converter to convert the syntax theme- which is now added to this repository. 
 
 Unfortunately, I do not know how easy it is to convert the UI? (not hugely familiar with Atom.) **HELP!** :see_no_evil:
+
+##Mou
+
+![Mou Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/mou.jpg)
+
+**Activating...**
+
+1. Copy `mou/Wild Cherry.txt` to you Mou/Theme directory
+2. Select `Wild Cherry` from Mou → Preferences → Themes
 
 ##Future? :crystal_ball:
 
