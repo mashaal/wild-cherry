@@ -71,7 +71,7 @@ Unfortunately, I do not know how easy it is to convert the UI? (not hugely famil
 
 **Activating...**
 
-1. Copy `mou/Wild Cherry.txt` to you Mou/Theme directory
+1. Copy `mou/Wild Cherry.txt` to your Mou/Theme directory
 2. Select `Wild Cherry` from Mou → Preferences → Themes
 
 ##Future? :crystal_ball:
