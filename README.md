@@ -7,12 +7,12 @@
 > :skull: Git Princess is close to death.
 
 > :tulip: Commit to her and give her a flower.
- 
-> :japanese_ogre: Japanese Ogre appears on error. 
+
+> :japanese_ogre: Japanese Ogre appears on error.
 
 ![Wild Cherry](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/wild-cherry.gif)
 
- 
+
 
 ##Zsh
 
@@ -35,6 +35,14 @@
 4. Select the `iterm/wild-cherry.itermcolors` file
 5. Select the *`wild cherry`* from *`Load Presets...`*
 
+##Atom
+
+![Atom Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/atom.png)
+
+**[View on Atom Themes](https://atom.io/themes/wild-cherry)**
+
+* Now Optimised for Atom!
+* Screenshot is using Isotope UI Theme, with File Icons package
 
 ##Sublime
 
@@ -53,17 +61,9 @@
 "theme": "wild-cherry.sublime-theme",
 "color_scheme": "Packages/Wild Cherry/wild-cherry.tmTheme"
 ```
-`color_scheme` defines how the code looks and `theme` defines how the sidebar, tabs, search, command palette work. 
+`color_scheme` defines how the code looks and `theme` defines how the sidebar, tabs, search, command palette work.
 
-##Atom
 
-![Atom Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/atom.jpg)
-
-**[View on Atom Themes](https://atom.io/themes/wild-cherry)**
-
-I've used Atom's theme converter to convert the syntax theme- which is now added to this repository. 
-
-Unfortunately, I do not know how easy it is to convert the UI? (not hugely familiar with Atom.) **HELP!** :see_no_evil:
 
 ##Mou
 
@@ -77,4 +77,3 @@ Unfortunately, I do not know how easy it is to convert the UI? (not hugely famil
 ##Future? :crystal_ball:
 
 Want to give the princess a makeover? :lipstick: Fork- and submit a pull request! :ribbon:
-
