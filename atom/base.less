@@ -2,7 +2,7 @@
 
 atom-text-editor, :host {
 	background-color: @syntax-background-color;
-	color: @syntax-text-color;
+	color: #F8F8F2;
 }
 
 atom-text-editor .gutter, :host .gutter {
@@ -206,4 +206,56 @@ atom-text-editor::shadow .cursor-line .indent-guide {
 
 atom-text-editor::shadow .indent-guide {
 	box-shadow: inset 2px 0 0 #6c71c4
+}
+
+atom-pane-container atom-pane .item-views .pane-item, .settings-view .config-menu {
+	background: #2b1f32
+}
+
+.settings-view .config-menu {
+	border-right: none;
+}
+
+atom-pane-container atom-pane .item-views .pane-item, .settings-view .config-menu {
+	background: #2b1f32
+}
+
+.settings-view .config-menu {
+	border-right: none;
+}
+
+.settings-view .config-menu .nav > li.active a, .tree-view.list-tree:focus li.selected:before, .tree-view.list-tree:focus li:not(.list-nested-item).selected:before, .tree-view.list-tree:focus li.list-nested-item.selected > .list-item:before, .tree-view.list-tree li.selected:before {
+	background:#9b5fe0;
+}
+
+.tree-view.list-tree li.selected, .tree-view.list-tree li:not(.list-nested-item).selected, .tree-view.list-tree li.list-nested-item.selected > .list-item {
+	color:white;
+}
+
+.settings-view .package-card {
+	background: #2b1f32;
+	border: 1px solid #fed888;
+}
+
+.settings-view .package-card:hover {
+	background-color: #4a1386;
+}
+
+atom-text-editor.mini, atom-text-editor.mini::shadow, atom-text-editor.mini.is-focused, atom-text-editor.mini.is-focused::shadow, .settings-view select.form-control, .settings-view select.form-control:hover, .settings-view select.form-control:focus, .btn, .btn.icon {
+	background:#4a1386;
+	color:#fed888;
+}
+
+.badge {
+	background:#e15d97;
+	color:#fed888;
+}
+
+.btn.selected, .btn.selected:hover {
+	background:#e15d97;
+	color:#fed888;
+}
+
+.meta.tag.class {
+	color:#0aacc5;
 }
