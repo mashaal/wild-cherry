@@ -42,9 +42,9 @@
 **[View on Atom Themes](https://atom.io/themes/wild-cherry)**
 
 * Now Optimised for Atom!
-* Screenshot is using [Isotope UI Theme](https://atom.io/themes/isotope-ui), with [File Icons](https://atom.io/packages/file-icons) package
+* Recommended to use [Isotope UI Theme](https://atom.io/themes/isotope-ui), with [File Icons](https://atom.io/packages/file-icons) package
 
-(Screenshot has Isotope UI's background colour set to rgb **43,31,51**)
+(When using Isotope UI, if your side/bottom panel colours are not displaying properly- please set Isotope UI's settings background colour to rgb **43,31,51**, which may alleviate the issue)
 
 ##Sublime
 
