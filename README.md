@@ -43,6 +43,7 @@
 
 * Now Optimised for Atom!
 * Recommended to use [Isotope UI Theme](https://atom.io/themes/isotope-ui), with [File Icons](https://atom.io/packages/file-icons) package
+* Thanks to [ramonmcros](https://github.com/ramonmcros) for adding JSON, Markdown, and CriticMarkdown syntax!
 
 (When using Isotope UI, if your side/bottom panel colours are not displaying properly- please set Isotope UI's settings background colour to rgb **43,31,51**, which may alleviate the issue)
 
@@ -51,7 +52,7 @@
 ![Sublime Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/sublime.png)
 
 * This is a customized version of the [Cobalt2](https://github.com/wesbos/cobalt2) UI.
-* Massive thanks to [ctf0](https://github.com/ctf0) for his help! :tophat:
+* Massive thanks to [ctf0](https://github.com/ctf0) for his help with the UI! :tophat:
 
 **[View on Package Control](https://packagecontrol.io/packages/Wild%20Cherry)**
 
