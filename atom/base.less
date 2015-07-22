@@ -156,10 +156,6 @@ atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-edi
 	background-color: #9b5fe0;
 }
 
-.meta.structure.dictionary.json .string.quoted.double.json {
-	color: #CFCFC2;
-}
-
 .meta.diff, .meta.diff.header {
 	color: #6272a4;
 }
@@ -229,6 +225,19 @@ atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-edi
 }
 
 .critic.highlight {
+  color: #fed888;
+}
+
+.json .structure.dictionary > .string.quoted.double {
+  color: #e15d97;
+}
+.json .structure.dictionary > .string.quoted.double .punctuation.definition.string {
+  color: #e15d97;
+}
+.json .structure.dictionary.value > .string.quoted.double {
+  color: #fed888;
+}
+.json .structure.dictionary.value > .string.quoted.double .punctuation.definition.string {
   color: #fed888;
 }
 
