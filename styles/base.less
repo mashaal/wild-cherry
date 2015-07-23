@@ -349,16 +349,12 @@ body:not([data-isotope-ui-minimal='true']) .tab-bar .tab {
   border: 1px solid transparent !important;
 }
 
-atom-pane.active .tab-bar .tab.active:not([data-type="TextEditor"]) {
-  background: #ffffff !important;
-  color: #424242 !important;
-}
 
 atom-panel.left, atom-panel.bottom, atom-panel .tree-view-resizer, .tab-bar, .status-bar, atom-pane-container atom-pane, atom-pane-container atom-pane[class="pane active"], atom-workspace atom-pane-container atom-pane[class="pane"] {
   background-color:#2b1f32 !important;
 }
 
-atom-pane.active .tab-bar .tab-active {
+atom-pane.active .tab-bar .tab.active, atom-pane.active .tab-bar .tab.active:not([data-type="TextEditor"]) {
   background-color: #9b5fe0 !important;
   color: white !important;
 }
