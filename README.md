@@ -41,11 +41,14 @@
 
 **[View on Atom Themes](https://atom.io/themes/wild-cherry)**
 
-* Now Optimised for Atom!
+* Optimised for Atom!
+* Now with Linter Emojis!
 * Recommended to use [Isotope UI Theme](https://atom.io/themes/isotope-ui), with [File Icons](https://atom.io/packages/file-icons) package
 * Thanks to [ramonmcros](https://github.com/ramonmcros) for adding JSON, Markdown, and CriticMarkdown syntax!
 
-(When using Isotope UI, if your side/bottom panel colours are not displaying properly- please set Isotope UI's settings background colour to rgb **43,31,51**, which may alleviate the issue)
+![Linter](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/linter.png)
+> :japanese_ogre: Japanese Ogre does not like trailing semicolons. ([Atom Linter](https://atom.io/packages/linter) required)
+
 
 ##Sublime
 
