@@ -12,7 +12,19 @@
 
 ![Wild Cherry](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/wild-cherry.gif)
 
+###Git Emojis Explained
 
+> :skull: Dirty
+
+> :ribbon: New file
+
+> :mushroom: Changed file
+
+> :nail_care: New commits to push
+
+> :tulip: Clean
+
+> Plus many more!
 
 ##Zsh
 
