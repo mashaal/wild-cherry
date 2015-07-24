@@ -18,6 +18,8 @@
 
 > :ribbon: New file
 
+> :boom: Removed file
+
 > :mushroom: Changed file
 
 > :nail_care: New commits to push
