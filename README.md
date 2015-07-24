@@ -22,7 +22,7 @@
 
 > :mushroom: Changed file
 
-> :nail_care: New files ready to commit
+> :nail_care: New files added/ ready to commit
 
 > :tulip: Clean
 
