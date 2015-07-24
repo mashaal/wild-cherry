@@ -49,6 +49,9 @@
 ![Linter](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/linter.png)
 > :japanese_ogre: Japanese Ogre does not like trailing semicolons. ([Atom Linter](https://atom.io/packages/linter) required)
 
+![Zap](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/zap.png)
+> :zap: Be careful you don't get zapped! ([Atom Linter](https://atom.io/packages/linter) required)
+
 
 ##Sublime
 
