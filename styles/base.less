@@ -306,6 +306,10 @@ atom-pane-container atom-pane .item-views .pane-item, .settings-view .config-men
   background-color: #4a1386 !important;
 }
 
+atom-pane-container atom-pane-axis.horizontal > * {
+  border-right:2px solid #4a1386;
+}
+
 atom-text-editor.mini, atom-text-editor.mini::shadow, atom-text-editor.mini.is-focused, atom-text-editor.mini.is-focused::shadow, .settings-view select.form-control, .settings-view select.form-control:hover, .settings-view select.form-control:focus, .btn, .btn.icon, .settings-view .package-update-view .thumbnail {
   background:none !important;
   color:#fed888 !important;
@@ -384,4 +388,8 @@ atom-text-editor::shadow .linter-highlight.warning .icon-right::before, .linter-
 .line-number .icon-right, .line-number {
   opacity: 1 !important;
   color:#6272a4;
+}
+
+.status-bar {
+  border-top: 2px solid #9b5fe0;
 }
