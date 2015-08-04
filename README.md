@@ -31,7 +31,7 @@
 ##Zsh
 
 * This is a customized version of [agnoster](https://gist.github.com/3712874) and [remy](https://remysharp.com/2013/07/25/my-terminal-setup).
-* In order for this theme to render correctly, you will need a [Powerline-patched font](https://gist.github.com/1595572).
+* In order for this theme to render correctly, you will need a [Powerline-patched font](https://github.com/powerline/fonts).
 
 **Activating...**
 
