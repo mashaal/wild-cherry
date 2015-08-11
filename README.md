@@ -49,6 +49,22 @@
 4. Select the `iterm/wild-cherry.itermcolors` file
 5. Select the *`wild cherry`* from *`Load Presets...`*
 
+
+##PuTTY
+
+![PuTTY Preview](images/putty.png)
+
+* Same theme as for iTerm2!
+* Update your default profile, or create a new profile
+
+**Activating**
+
+1. Download either [`putty/wild-cherry.reg`](putty/wild-cherry.reg) or [`putty/wild-cherry.default.reg`](putty/wild-cherry.default.reg)
+2. Open it.
+3. Click yes.
+3. Delete it.
+
+
 ##Atom
 
 ![Atom Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/atom.png)
