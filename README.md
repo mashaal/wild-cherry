@@ -50,21 +50,6 @@
 5. Select the *`wild cherry`* from *`Load Presets...`*
 
 
-##PuTTY
-
-![PuTTY Preview](images/putty.png)
-
-* Same theme as for iTerm2!
-* Update your default profile, or create a new profile
-
-**Activating**
-
-1. Download either [`putty/wild-cherry.reg`](putty/wild-cherry.reg) or [`putty/wild-cherry.default.reg`](putty/wild-cherry.default.reg)
-2. Open it.
-3. Click yes.
-3. Delete it.
-
-
 ##Atom
 
 ![Atom Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/atom.png)
@@ -112,6 +97,28 @@
 
 1. Copy [`mou/Wild Cherry.txt`](mou/Wild Cherry.txt) to your Mou/Theme directory
 2. Select `Wild Cherry` from Mou → Preferences → Themes
+
+##PuTTY
+
+![PuTTY Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/putty.png)
+
+* Same theme as for iTerm2!
+* Update your default profile, or create a new profile
+
+**Activating**
+
+1. Download either [`putty/wild-cherry.reg`](putty/wild-cherry.reg) or [`putty/wild-cherry.default.reg`](putty/wild-cherry.default.reg)
+2. Open it.
+3. Click yes.
+3. Delete it.
+
+##Notepad++
+
+![Notepad Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/notepad.png)
+
+**Activating**
+
+1. Use `notepad/wild_cherry.stylers.xml`
 
 ##Future? :crystal_ball:
 
