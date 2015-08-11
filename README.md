@@ -117,7 +117,7 @@
 
 **Activating**
 
-1. Use `notepad/wild_cherry.stylers.xml`
+1. Use [`notepad/wild_cherry.stylers.xml`](notepad/wild_cherry.stylers.xml)
 
 ##Future? :crystal_ball:
 
