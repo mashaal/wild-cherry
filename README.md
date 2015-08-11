@@ -2,7 +2,7 @@
 
 > A fairy-tale inspired theme, with tasteful use of emojis - [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), [Sublime](http://www.sublimetext.com), [Atom](https://atom.io/), & [Mou](http://25.io/mou/)
 
-![Wild Cherry](images/wild-cherry.jpg)
+![Wild Cherry](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/wild-cherry.jpg)
 
 > :skull: Git Princess is close to death.
 
@@ -10,7 +10,7 @@
 
 > :japanese_ogre: Japanese Ogre appears on error.
 
-![Wild Cherry](images/wild-cherry.gif)
+![Wild Cherry](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/wild-cherry.gif)
 
 ###Git Emojis Explained
 
@@ -67,7 +67,7 @@
 
 ##Atom
 
-![Atom Preview](images/atom.png)
+![Atom Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/atom.png)
 
 **[View on Atom Themes](https://atom.io/themes/wild-cherry)**
 
@@ -76,16 +76,16 @@
 * Recommended to use [Isotope UI Theme](https://atom.io/themes/isotope-ui), with [File Icons](https://atom.io/packages/file-icons) package
 * Thanks to [ramonmcros](https://github.com/ramonmcros) for adding JSON, Markdown, and CriticMarkdown syntax!
 
-![Linter](images/linter.png)
+![Linter](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/linter.png)
 > :japanese_ogre: Japanese Ogre does not like trailing semicolons. ([Atom Linter](https://atom.io/packages/linter) required)
 
-![Zap](images/zap.png)
+![Zap](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/zap.png)
 > :zap: Be careful you don't get zapped! ([Atom Linter](https://atom.io/packages/linter) required)
 
 
 ##Sublime
 
-![Sublime Preview](images/sublime.png)
+![Sublime Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/sublime.png)
 
 * This is a customized version of the [Cobalt2](https://github.com/wesbos/cobalt2) UI.
 * Massive thanks to [ctf0](https://github.com/ctf0) for his help with the UI! :tophat:
@@ -106,7 +106,7 @@
 
 ##Mou
 
-![Mou Preview](images/mou.jpg)
+![Mou Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/mou.jpg)
 
 **Activating...**
 
