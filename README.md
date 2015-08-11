@@ -1,6 +1,6 @@
 #Wild Cherry
 
-> A fairy-tale inspired theme, with tasteful use of emojis - [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), [Sublime](http://www.sublimetext.com), [Atom](https://atom.io/), & [Mou](http://25.io/mou/)
+> A fairy-tale inspired theme, with tasteful use of emojis - [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), [Sublime](http://www.sublimetext.com), [Atom](https://atom.io/),  [Mou](http://25.io/mou/), [PuTTY](http://www.putty.org), & [Notepad++](https://notepad-plus-plus.org)
 
 ![Wild Cherry](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/wild-cherry.jpg)
 
@@ -104,6 +104,7 @@
 
 * Same theme as for iTerm2!
 * Update your default profile, or create a new profile
+* Thanks to [Efreak](https://github.com/Efreak) for PuTTY integration!
 
 **Activating**
 
@@ -113,8 +114,6 @@
 3. Delete it.
 
 ##Notepad++
-
-![Notepad Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/notepad.png)
 
 **Activating**
 
