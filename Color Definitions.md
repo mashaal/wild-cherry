@@ -1,4 +1,4 @@
-These are the ANSI colors exported from the iTerm definitions file for reference. They were used to generate the colors for Putty. You can export more colors [here](https://terminal.sexy/#HxYm____CZvX2UCFKrJQ_9FviDzcD526T12V__jdCZvX2UCEKrJQ_9FviDzbCZvXT12V__je), though the exported definitions may need tweaking (terminal.sexy only supports ansi definitions and foreground/background).
+These are the ANSI colors exported from the iTerm definitions file for reference. They were used to generate the colors for Putty. You can export more definitions [here](https://terminal.sexy/#HxYm____CZvX2UCFKrJQ_9FviDzcD526T12V__jdCZvX2UCEKrJQ_9FviDzbCZvXT12V__je), though the exported definitions may need tweaking (terminal.sexy only supports ansi definitions and foreground/background).
 
 | Color | #HEX | R,G,B |
 | :-----: | :-----: | :-----: |
