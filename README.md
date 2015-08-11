@@ -35,7 +35,7 @@
 
 **Activating...**
 
-1. Move `zsh/wild-cherry.zsh-theme` file to [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/)'s theme folder: `oh-my-zsh/themes/wild-cherry`.
+1. Move [`zsh/wild-cherry.zsh-theme`](zsh/wild-cherry.zsh-theme) file to [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/)'s theme folder: `oh-my-zsh/themes/wild-cherry`.
 2. Go to your `~/.zshrc` file and set `ZSH_THEME="wild-cherry"`. Finally, reload your terminal.
 
 
@@ -46,7 +46,7 @@
 1. *iTerm2 → `Preferences` → `Profiles` → `Colors` Tab*
 2. Click *`Load Presets...`*
 3. Click *`Import...`*
-4. Select the `iterm/wild-cherry.itermcolors` file
+4. Select the [`iterm/wild-cherry.itermcolors`](iterm/wild-cherry.itermcolors) file
 5. Select the *`wild cherry`* from *`Load Presets...`*
 
 
@@ -110,7 +110,7 @@
 
 **Activating...**
 
-1. Copy `mou/Wild Cherry.txt` to your Mou/Theme directory
+1. Copy [`mou/Wild Cherry.txt`](mou/Wild Cherry.txt) to your Mou/Theme directory
 2. Select `Wild Cherry` from Mou → Preferences → Themes
 
 ##Future? :crystal_ball:
