@@ -91,7 +91,7 @@
 
 ##Mou
 
-![Mou Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/mou.jpg)
+![Mou Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/mou.png)
 
 **Activating...**
 
