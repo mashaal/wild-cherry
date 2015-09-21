@@ -64,7 +64,7 @@ if [ ! -n "${WILDCHERRY_NVM_PREFIX+1}" ]; then
   WILDCHERRY_NVM_PREFIX="⬡ "
 fi
 
-# RMV
+# RVM
 if [ ! -n "${WILDCHERRY_RVM_SHOW+1}" ]; then
   WILDCHERRY_RVM_SHOW=true
 fi
