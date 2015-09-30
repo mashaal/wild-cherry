@@ -377,7 +377,7 @@ linter-bottom-tab.active {
   background-color:#9b5fe0 !important;
 }
 
-atom-text-editor::shadow .linter-highlight.error .linter-gutter:before, .linter-highlight.error .linter-gutter:before {
+atom-text-editor::shadow .linter-highlight.error:not(.line-number), .linter-highlight.error:not(.line-number) {
   content: "👹" !important;
   opacity: 1;
   position: absolute;
@@ -386,7 +386,7 @@ atom-text-editor::shadow .linter-highlight.error .linter-gutter:before, .linter-
   right: -3px;
 }
 
-atom-text-editor::shadow .linter-highlight.warning .linter-gutter:before, .linter-highlight.warning .linter-gutter:before {
+atom-text-editor::shadow .linter-highlight.warning:not(.line-number), .linter-highlight.warning:not(.line-number) {
   content: "⚡️" !important;
   opacity: 1;
   position: absolute;
