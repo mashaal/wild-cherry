@@ -63,9 +63,11 @@
 
 ####Atom Linter Emojies
 
-> :japanese_ogre: Japanese Ogre does not like trailing semicolons. ([Atom Linter](https://atom.io/packages/linter) required)
+![Atom Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/error.png)
+> :japanese_ogre: Japanese Ogre does not like trailing semicolons! ([Atom Linter](https://atom.io/packages/linter) required)
 
-> :zap: Be careful you don't get zapped! ([Atom Linter](https://atom.io/packages/linter) required)
+![Atom Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/fire.png)
+> :fire: Dodgy code may catch fire! ([Atom Linter](https://atom.io/packages/linter) required)
 
 
 ##Sublime
