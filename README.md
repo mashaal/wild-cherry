@@ -61,10 +61,10 @@
 * Recommended to use [Isotope UI Theme](https://atom.io/themes/isotope-ui), with [File Icons](https://atom.io/packages/file-icons) package
 * Thanks to [ramonmcros](https://github.com/ramonmcros) for adding JSON, Markdown, and CriticMarkdown syntax!
 
-![Linter](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/linter.png)
+####Atom Linter Emojies
+
 > :japanese_ogre: Japanese Ogre does not like trailing semicolons. ([Atom Linter](https://atom.io/packages/linter) required)
 
-![Zap](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/zap.png)
 > :zap: Be careful you don't get zapped! ([Atom Linter](https://atom.io/packages/linter) required)
 
 
