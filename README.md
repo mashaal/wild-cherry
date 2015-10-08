@@ -1,6 +1,6 @@
 #Wild Cherry
 
-> A fairy-tale inspired theme, with tasteful use of emojis - [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), [Sublime](http://www.sublimetext.com), [Atom](https://atom.io/),  [Mou](http://25.io/mou/), [PuTTY](http://www.putty.org), & [Notepad++](https://notepad-plus-plus.org)
+> A fairy-tale inspired theme, with tasteful use of emojis - [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), [Sublime](http://www.sublimetext.com), [Atom](https://atom.io/),  [Slack](http://slack.com/), [Mou](http://25.io/mou/), [PuTTY](http://www.putty.org), & [Notepad++](https://notepad-plus-plus.org)
 
 ![Wild Cherry](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/wild-cherry.jpg)
 
@@ -89,6 +89,13 @@
 ```
 `color_scheme` defines how the code looks and `theme` defines how the sidebar, tabs, search, command palette work.
 
+##Slack
+
+![Slack Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/slack.png)
+
+**Activating...**
+
+`#2B1F32,#FFB86C,#E15D97,#FFFFFF,#4A1386,#FFFFFF,#35BA66,#0AACC5`
 
 
 ##Mou
