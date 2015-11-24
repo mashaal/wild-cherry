@@ -357,6 +357,13 @@ atom-text-editor.mini, atom-text-editor.mini::shadow, atom-text-editor.mini.is-f
   background: none !important;
 }
 
+.tab-bar {
+  z-index:999;
+  &:before {
+    display:none !important;
+  }
+}
+
 body:not([data-isotope-ui-minimal='true']) .tab-bar .tab {
   border-top-left-radius: 0 !important;
   border-top-right-radius: 0 !important;
