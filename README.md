@@ -128,6 +128,18 @@
 
 1. Use [`notepad/wild_cherry.stylers.xml`](notepad/wild_cherry.stylers.xml)
 
+##Vivaldi
+
+![Vivaldi Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/vivaldi.png)
+
+**Activating...**
+
+1. Open settings → themes.
+2. Click +.
+3. Set background = `#2B1F32`, foreground = `#FFFFFF`, highlight = `#0AACC5`, accent = `#E15D97`.
+4. Set name: `Wild Cherry`.
+5. Click save.
+
 ##Future? :crystal_ball:
 
 Want to give the princess a makeover? :lipstick: Fork- and submit a pull request! :ribbon:
