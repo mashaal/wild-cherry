@@ -38,6 +38,7 @@
 1. Move [`zsh/wild-cherry.zsh-theme`](zsh/wild-cherry.zsh-theme) file to [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/)'s theme folder: `oh-my-zsh/themes/wild-cherry`.
 2. Go to your `~/.zshrc` file and set `ZSH_THEME="wild-cherry"`. Finally, reload your terminal.
 
+[Zsh theme documentation](https://github.com/robbyrussell/oh-my-zsh/wiki/themes)
 
 ##iTerm
 
