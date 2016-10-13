@@ -49,6 +49,8 @@
 4. Select the [`iterm/wild-cherry.itermcolors`](iterm/wild-cherry.itermcolors) file
 5. Select the *`wild cherry`* from *`Load Presets...`*
 
+**Note: wild-cherry.itermcolors reflects only the theme colors in iTerm. To get the formatting and emojis, you will need to configure your Zsh theme via the instructions above.**
+
 
 ##Atom
 
