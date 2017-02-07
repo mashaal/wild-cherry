@@ -1,54 +1,54 @@
 @import "syntax-variables";
 
-atom-text-editor, atom-text-editor.editor {
+atom-text-editor, :host {
   background-color: @syntax-background-color;
   color: #F8F8F2;
 }
 
-atom-text-editor .gutter, atom-text-editor.editor .gutter {
+atom-text-editor .gutter, :host .gutter {
   background-color: @syntax-gutter-background-color;
   color: @syntax-gutter-text-color;
 }
 
-atom-text-editor .gutter .line-number.cursor-line, atom-text-editor.editor .gutter .line-number.cursor-line {
+atom-text-editor .gutter .line-number.cursor-line, :host .gutter .line-number.cursor-line {
   background-color: @syntax-gutter-background-color-selected;
   color: @syntax-gutter-text-color-selected;
 }
 
-atom-text-editor .gutter .line-number.cursor-line-no-selection, atom-text-editor.editor .gutter .line-number.cursor-line-no-selection {
+atom-text-editor .gutter .line-number.cursor-line-no-selection, :host .gutter .line-number.cursor-line-no-selection {
   color: @syntax-gutter-text-color-selected;
 }
 
-atom-text-editor .wrap-guide, atom-text-editor.editor .wrap-guide {
+atom-text-editor .wrap-guide, :host .wrap-guide {
   color: @syntax-wrap-guide-color;
 }
 
-atom-text-editor .indent-guide, atom-text-editor.editor .indent-guide {
+atom-text-editor .indent-guide, :host .indent-guide {
   color: @syntax-indent-guide-color;
 }
 
-atom-text-editor .invisible-character, atom-text-editor.editor .invisible-character {
+atom-text-editor .invisible-character, :host .invisible-character {
   color: @syntax-invisible-character-color;
 }
 
-atom-text-editor .search-results .marker .region, atom-text-editor.editor .search-results .marker .region {
+atom-text-editor .search-results .marker .region, :host .search-results .marker .region {
   background-color: transparent;
   border: @syntax-result-marker-color;
 }
 
-atom-text-editor .search-results .marker.current-result .region, atom-text-editor.editor .search-results .marker.current-result .region {
+atom-text-editor .search-results .marker.current-result .region, :host .search-results .marker.current-result .region {
   border: @syntax-result-marker-color-selected;
 }
 
-atom-text-editor.is-focused .cursor, atom-text-editor.editor(.is-focused) .cursor {
+atom-text-editor.is-focused .cursor, :host(.is-focused) .cursor {
   border-color: @syntax-cursor-color;
 }
 
-atom-text-editor.is-focused .selection .region, atom-text-editor.editor(.is-focused) .selection .region {
+atom-text-editor.is-focused .selection .region, :host(.is-focused) .selection .region {
   background-color: @syntax-selection-color;
 }
 
-atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-editor.is-focused .line.cursor-line, atom-text-editor.editor(.is-focused) .line-number.cursor-line-no-selection, atom-text-editor.editor(.is-focused) .line.cursor-line {
+atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-editor.is-focused .line.cursor-line, :host(.is-focused) .line-number.cursor-line-no-selection, :host(.is-focused) .line.cursor-line {
   background-color: #4a1386;
 }
 
