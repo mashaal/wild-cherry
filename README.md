@@ -1,6 +1,6 @@
 #Wild Cherry
 
-> A fairy-tale inspired theme, with tasteful use of emojis - [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), [Sublime](http://www.sublimetext.com), [Atom](https://atom.io/),  [Slack](http://slack.com/), [Mou](http://25.io/mou/), [PuTTY](http://www.putty.org), & [Notepad++](https://notepad-plus-plus.org)
+> A fairy-tale inspired theme, with tasteful use of emojis - [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), [Sublime](http://www.sublimetext.com), [Atom](https://atom.io/),  [Slack](http://slack.com/), [Mou](http://25.io/mou/), [PuTTY](http://www.putty.org), [Notepad++](https://notepad-plus-plus.org), [Vivaldi](https://vivaldi.com) & [DuckDuckGo](https://duckduckgo.com)
 
 ![Wild Cherry](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/wild-cherry.jpg)
 
@@ -142,6 +142,22 @@
 3. Set background = `#2B1F32`, foreground = `#FFFFFF`, highlight = `#0AACC5`, accent = `#E15D97`.
 4. Set name: `Wild Cherry`.
 5. Click save.
+
+##DuckDuckGo
+
+![DuckDuckGo Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/ddg.png)
+
+**Activating**
+
+a) Use this [bookmarklet](https://duckduckgo.com/?k7=2B1F32&kj=4a1386&kx=e15d97&k9=ffb86c&kaa=0AACC5)
+
+    https://duckduckgo.com/?k7=2B1F32&kj=4a1386&kx=e15d97&k9=ffb86c&kaa=0AACC5
+
+  OR
+
+b) 
+  1. Go to [Settings → Appearance](https://duckduckgo.com/settings#appearance)
+  2. Set *Background Color*: `#2b1f32`, *Header Color*: `#4a1386`, *Result URL Color*: `#e15d97`, *Result Title Color*: `#e15d97`, *Result Visited Title Color*: `#0aacc5`
 
 ##Future? :crystal_ball:
 
