@@ -1,4 +1,4 @@
-#Wild Cherry
+# Wild Cherry
 
 > A fairy-tale inspired theme, with tasteful use of emojis - [Zsh](http://www.zsh.org/), [iTerm](http://www.iterm2.com/), [Sublime](http://www.sublimetext.com), [Atom](https://atom.io/),  [Slack](http://slack.com/), [Mou](http://25.io/mou/), [PuTTY](http://www.putty.org), [Notepad++](https://notepad-plus-plus.org), [Vivaldi](https://vivaldi.com) & [DuckDuckGo](https://duckduckgo.com)
 
@@ -12,7 +12,7 @@
 
 ![Wild Cherry](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/wild-cherry.gif)
 
-###Git Emojis Explained
+### Git Emojis Explained
 
 > :skull: Dirty
 
@@ -28,7 +28,7 @@
 
 > Plus many more!
 
-##Zsh
+## Zsh
 
 * This is a customized version of [agnoster](https://gist.github.com/3712874) and [remy](https://remysharp.com/2013/07/25/my-terminal-setup).
 * In order for this theme to render correctly, you will need a [Powerline-patched font](https://github.com/powerline/fonts).
@@ -53,7 +53,7 @@
 **Note: wild-cherry.itermcolors reflects only the theme colors in iTerm. To get the formatting and emojis, you will need to configure your Zsh theme via the instructions above.**
 
 
-##Atom
+## Atom
 
 ![Atom Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/atom.png)
 
@@ -64,7 +64,7 @@
 * Recommended to use [Isotope UI Theme](https://atom.io/themes/isotope-ui), with [File Icons](https://atom.io/packages/file-icons) package
 * Thanks to [ramonmcros](https://github.com/ramonmcros) for adding JSON, Markdown, and CriticMarkdown syntax!
 
-####Atom Linter Emojis
+#### Atom Linter Emojis
 
 ![Atom Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/error.png)
 > :japanese_ogre: Japanese Ogre does not like trailing semicolons! ([Atom Linter](https://atom.io/packages/linter) required)
@@ -73,7 +73,7 @@
 > :fire: Dodgy code may catch fire! ([Atom Linter](https://atom.io/packages/linter) required)
 
 
-##Sublime
+## Sublime
 
 ![Sublime Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/sublime.png)
 
@@ -92,7 +92,7 @@
 ```
 `color_scheme` defines how the code looks and `theme` defines how the sidebar, tabs, search, command palette work.
 
-##Slack
+## Slack
 
 ![Slack Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/slack.png)
 
@@ -101,7 +101,7 @@
 `#2B1F32,#FFB86C,#E15D97,#FFFFFF,#4A1386,#FFFFFF,#35BA66,#0AACC5`
 
 
-##Mou
+## Mou
 
 ![Mou Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/mou.png)
 
@@ -110,7 +110,7 @@
 1. Copy [`mou/Wild Cherry.txt`](mou/Wild Cherry.txt) to your Mou/Theme directory
 2. Select `Wild Cherry` from Mou → Preferences → Themes
 
-##PuTTY
+## PuTTY
 
 ![PuTTY Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/putty.png)
 
@@ -125,13 +125,13 @@
 3. Click yes.
 3. Delete it.
 
-##Notepad++
+## Notepad++
 
 **Activating**
 
 1. Use [`notepad/wild_cherry.stylers.xml`](notepad/wild_cherry.stylers.xml)
 
-##Vivaldi
+## Vivaldi
 
 ![Vivaldi Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/vivaldi.png)
 
@@ -143,7 +143,7 @@
 4. Set name: `Wild Cherry`.
 5. Click save.
 
-##DuckDuckGo
+## DuckDuckGo
 
 ![DuckDuckGo Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/ddg.png)
 
@@ -159,6 +159,6 @@ b)
   1. Go to [Settings → Appearance](https://duckduckgo.com/settings#appearance)
   2. Set *Background Color*: `#2b1f32`, *Header Color*: `#4a1386`, *Result URL Color*: `#e15d97`, *Result Title Color*: `#e15d97`, *Result Visited Title Color*: `#0aacc5`
 
-##Future? :crystal_ball:
+## Future? :crystal_ball:
 
 Want to give the princess a makeover? :lipstick: Fork- and submit a pull request! :ribbon:
