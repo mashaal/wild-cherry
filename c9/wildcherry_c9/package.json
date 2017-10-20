@@ -1,5 +1,5 @@
 {
-  "name": "wildcherry_theme",
+  "name": "wildcherry_c9",
   "description": "",
   "version": "0.0.1",
   "author": "isasftw",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/isasftw/wild-cherry.git"
+    "url": "https://github.com/isasftw/wildcherry_c9.git"
   },
   "plugins": {},
   "categories": [
