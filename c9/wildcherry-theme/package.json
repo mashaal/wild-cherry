@@ -1,0 +1,21 @@
+{
+  "name": "wildcherry_theme",
+  "description": "",
+  "version": "0.0.1",
+  "author": "isasftw",
+  "contributors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isasftw/wild-cherry.git"
+  },
+  "plugins": {},
+  "categories": [
+    "misc"
+  ],
+  "licenses": []
+}
