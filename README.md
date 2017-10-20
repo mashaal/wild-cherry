@@ -159,6 +159,19 @@ b)
   1. Go to [Settings → Appearance](https://duckduckgo.com/settings#appearance)
   2. Set *Background Color*: `#2b1f32`, *Header Color*: `#4a1386`, *Result URL Color*: `#e15d97`, *Result Title Color*: `#e15d97`, *Result Visited Title Color*: `#0aacc5`
 
+# Cloud9
+
+**Activating**
+1. In your Cloud9 IDE, click Cloud9 -> Preferences -> Experimental -> Enable Plugin Manager
+2. Click Tools -> Developer -> Start in Debug mode
+3. In the new window, type the following command into the terminal `cd ~/.c9/plugins`.
+4. Then clone the repository: `git clone https://github.com/iSasFTW/wildcherry_c9.git`.
+5. Switch into the newly created directory: `cd wildcherry_c9/`.
+6. Type `c9 build`.
+7. In the Plugin Manager (if not already open, go to Cloud9 -> Preferences -> Experimental) enable wildcherry_c9 by ticking the box next to it. (If you don't see it, you might have to refresh the plugin list using the button in the gear menu)
+8. You should now see "wildcherry" as an option in View -> Themes.
+9. Close the tab with debug mode open, and refresh your original cloud9 tab.
+10. Done! You've now installed the Wild Cherry editor theme!
 ## Future? :crystal_ball:
 
 Want to give the princess a makeover? :lipstick: Fork- and submit a pull request! :ribbon:
