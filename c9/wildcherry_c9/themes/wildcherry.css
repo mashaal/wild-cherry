@@ -1,0 +1,144 @@
+/* name: wildcherry; isDark: true; cssClass: ace-wildcherry; */
+.ace-wildcherry .ace_gutter {
+  background: #2b1f32;
+  color: rgb(146,140,146)
+}
+
+.ace-wildcherry .ace_print-margin {
+  width: 1px;
+  background: #e8e8e8
+}
+
+.ace-wildcherry {
+  background-color: #2b1f32;
+  color: #F8F8F2
+}
+
+.ace-wildcherry .ace_cursor {
+  color: #F8F8F0
+}
+
+.ace-wildcherry .ace_marker-layer .ace_selection {
+  background: #4a1386
+}
+
+.ace-wildcherry.ace_multiselect .ace_selection.ace_start {
+  box-shadow: 0 0 3px 0px #2b1f32;
+  border-radius: 2px
+}
+
+.ace-wildcherry .ace_marker-layer .ace_step {
+  background: rgb(198, 219, 174)
+}
+
+.ace-wildcherry .ace_marker-layer .ace_bracket {
+  margin: -1px 0 0 -1px;
+  border: 1px solid #38072f
+}
+
+.ace-wildcherry .ace_marker-layer .ace_active-line {
+  background: #4a1386
+}
+
+.ace-wildcherry .ace_gutter-active-line {
+  background-color: #4a1386
+}
+
+.ace-wildcherry .ace_marker-layer .ace_selected-word {
+  border: 1px solid #4a1386
+}
+
+.ace-wildcherry .ace_fold {
+  background-color: #35ba66;
+  border-color: #F8F8F2
+}
+
+.ace-wildcherry .ace_keyword {
+  color: #e15d97
+}
+
+.ace-wildcherry .ace_constant.ace_language {
+  color: #9b5fe0
+}
+
+.ace-wildcherry .ace_constant.ace_numeric {
+  color: #9b5fe0
+}
+
+.ace-wildcherry .ace_constant.ace_character {
+  color: #9b5fe0
+}
+
+.ace-wildcherry .ace_constant.ace_other {
+  color: #9b5fe0
+}
+
+.ace-wildcherry .ace_support.ace_function {
+  color: #0aacc5
+}
+
+.ace-wildcherry .ace_support.ace_constant {
+  color: #6be5fd
+}
+
+.ace-wildcherry .ace_support.ace_class {
+  font-style: italic;
+  color: #66d9ef
+}
+
+.ace-wildcherry .ace_support.ace_type {
+  font-style: italic;
+  color: #66d9ef
+}
+
+.ace-wildcherry .ace_storage {
+  color: #e15d97
+}
+
+.ace-wildcherry .ace_storage.ace_type {
+  font-style: italic;
+  color: #0aacc5
+}
+
+.ace-wildcherry .ace_invalid {
+  color: #F8F8F0;
+  background-color: #e15d97
+}
+
+.ace-wildcherry .ace_invalid.ace_deprecated {
+  color: #F8F8F0;
+  background-color: #9b5fe0
+}
+
+.ace-wildcherry .ace_string {
+  color: #fed888
+}
+
+.ace-wildcherry .ace_comment {
+  color: #6272a4
+}
+
+.ace-wildcherry .ace_variable {
+  color: #35ba66
+}
+
+.ace-wildcherry .ace_variable.ace_parameter {
+  font-style: italic;
+  color: #ffb86c
+}
+
+.ace-wildcherry .ace_meta.ace_tag {
+  color: #e15d97
+}
+
+.ace-wildcherry .ace_entity.ace_other.ace_attribute-name {
+  color: #35ba66
+}
+
+.ace-wildcherry .ace_entity.ace_name.ace_function {
+  color: #35ba66
+}
+
+.ace-wildcherry .ace_entity.ace_name.ace_tag {
+  color: #e15d97
+}
