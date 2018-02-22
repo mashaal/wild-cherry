@@ -40,7 +40,7 @@
 
 [Zsh theme documentation](https://github.com/robbyrussell/oh-my-zsh/wiki/themes)
 
-##iTerm
+## iTerm
 
 **Activating...**
 
