@@ -161,6 +161,8 @@ b)
 
 # Cloud9
 
+![Cloud9 Preview](https://raw.githubusercontent.com/mashaal/wild-cherry/master/images/cloud9.png)
+
 **Activating**
 1. In your Cloud9 IDE, click Cloud9 -> Preferences -> Experimental -> Enable Plugin Manager
 2. Click Tools -> Developer -> Start in Debug mode
@@ -172,6 +174,9 @@ b)
 8. You should now see "wildcherry" as an option in View -> Themes.
 9. Close the tab with debug mode open, and refresh your original cloud9 tab.
 10. Done! You've now installed the Wild Cherry editor theme!
+
+If you want to apply the colors to the terminal and output windows, go to Preferences -> User Settings -> Terminal.
+Leave the text color to it's default setting, but change the background color's RGB values to 43, 32 and 50 respectively. Then set the selection color to 225,93,151. Repeat this process for the Output settings, and you're done :)
 ## Future? :crystal_ball:
 
 Want to give the princess a makeover? :lipstick: Fork- and submit a pull request! :ribbon:
