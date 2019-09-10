@@ -172,6 +172,29 @@ b)
 8. You should now see "wildcherry" as an option in View -> Themes.
 9. Close the tab with debug mode open, and refresh your original cloud9 tab.
 10. Done! You've now installed the Wild Cherry editor theme!
+
+# MinTTY
+
+![MinTTY Preview](images/mintty.png)
+
+MinTTY is used by many projects, including cygwin, babun, wsltty, and MSYS2. The following instructions assume your copy of mintty is recent enough to support themes (mintty in my babun install is too old)
+
+**Activating**
+1. Open your mintty environment
+2. Download [`wild-cherry`](mintty/wild-cherry) to `/usr/share/mintty/themes/wild-cherry` folder inside mintty.
+   - for a slightly tweaked version, use [`wild-cherry-mod`](mintty/wild-cherry-mod).
+3. right click the title bar on mintty
+4. click options
+5. Under theme, choose wild-cherry
+6. Click apply and/or save
+7. Done
+
+<details>
+<summary>MinTTY Options Menu</summary>
+
+![MinTTY Options Menu](https://i.imgur.com/7BM4wQ3.png)
+</details>
+
 ## Future? :crystal_ball:
 
 Want to give the princess a makeover? :lipstick: Fork- and submit a pull request! :ribbon:
