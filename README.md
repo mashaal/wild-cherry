@@ -195,6 +195,24 @@ MinTTY is used by many projects, including cygwin, babun, wsltty, and MSYS2. The
 ![MinTTY Options Menu](https://i.imgur.com/7BM4wQ3.png)
 </details>
 
+# Windows Terminal (Preview)
+
+![Windows Terminal](images/windows-terminal.png)
+
+Microsoft's Windows Terminal doesn't have dedicated theme files. Instead, it has a single profiles.json object. Until someone comes up with a tool to manage this file, you'll have to edit it by hand. Since it's a Windows App, you'll also have to find the location yourself.
+
+1. Try looking in `%LocalAppData%\Packages` for a folder that begins with `Microsoft.WindowsTerminal.`
+2. Open the `LocalState` folder
+3. Open `profiles.json` in your favorite editor
+4. Add the contents of [`windowsterminal-schema.json`](windowsterminal-schema.json) at the end of your schemes array.
+5. Find the profile(s) you wish to set to wild-cherry theme
+6. Set `colorScheme` to `wild-cherry`
+7. If you wish to use a powerline font, set the font name under fontFace
+   - if you're not sure what exactly to place there, pick the font in WordPad (run `write.exe`), and copy the name form the font setting.
+8. Follow the [instructions for zsh](#zsh)
+
+
+
 ## Future? :crystal_ball:
 
 Want to give the princess a makeover? :lipstick: Fork- and submit a pull request! :ribbon:
