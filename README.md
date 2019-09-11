@@ -177,7 +177,8 @@ b)
 
 ![MinTTY Preview](images/mintty.png)
 
-MinTTY is used by many projects, including cygwin, babun, wsltty, and MSYS2. The following instructions assume your copy of mintty is recent enough to support themes (mintty in my babun install is too old)
+MinTTY is used by many projects, including cygwin, babun, wsltty, and MSYS2. The following instructions assume your copy of mintty is recent enough to support themes (mintty in my babun install is too old).
+Unfortunately, there's no support for emoji, so those won't look nice.
 
 **Activating**
 1. Open your mintty environment
@@ -187,7 +188,7 @@ MinTTY is used by many projects, including cygwin, babun, wsltty, and MSYS2. The
 4. click options
 5. Under theme, choose wild-cherry
 6. Click apply and/or save
-7. Done
+7. Follow the [instructions for zsh](#zsh)
 
 <details>
 <summary>MinTTY Options Menu</summary>
