@@ -172,6 +172,48 @@ b)
 8. You should now see "wildcherry" as an option in View -> Themes.
 9. Close the tab with debug mode open, and refresh your original cloud9 tab.
 10. Done! You've now installed the Wild Cherry editor theme!
+
+# MinTTY
+
+![MinTTY Preview](images/mintty.png)
+
+MinTTY is used by many projects, including cygwin, babun, wsltty, and MSYS2. The following instructions assume your copy of mintty is recent enough to support themes (mintty in my babun install is too old).
+Unfortunately, there's no support for emoji, so those won't look nice.
+
+**Activating**
+1. Open your mintty environment
+2. Download [`wild-cherry`](mintty/wild-cherry) to `/usr/share/mintty/themes/wild-cherry` folder inside mintty.
+   - for a slightly tweaked version, use [`wild-cherry-mod`](mintty/wild-cherry-mod).
+3. right click the title bar on mintty
+4. click options
+5. Under theme, choose wild-cherry
+6. Click apply and/or save
+7. Follow the [instructions for zsh](#zsh)
+
+<details>
+<summary>MinTTY Options Menu</summary>
+
+![MinTTY Options Menu](https://i.imgur.com/7BM4wQ3.png)
+</details>
+
+# Windows Terminal (Preview)
+
+![Windows Terminal](images/windows-terminal.png)
+
+Microsoft's Windows Terminal doesn't have dedicated theme files. Instead, it has a single profiles.json object. Until someone comes up with a tool to manage this file, you'll have to edit it by hand. Since it's a Windows App, you'll also have to find the location yourself.
+
+1. Try looking in `%LocalAppData%\Packages` for a folder that begins with `Microsoft.WindowsTerminal.`
+2. Open the `LocalState` folder
+3. Open `profiles.json` in your favorite editor
+4. Add the contents of [`windowsterminal-schema.json`](windowsterminal-schema.json) at the end of your schemes array.
+5. Find the profile(s) you wish to set to wild-cherry theme
+6. Set `colorScheme` to `wild-cherry`
+7. If you wish to use a powerline font, set the font name under fontFace
+   - if you're not sure what exactly to place there, pick the font in WordPad (run `write.exe`), and copy the name form the font setting.
+8. Follow the [instructions for zsh](#zsh)
+
+
+
 ## Future? :crystal_ball:
 
 Want to give the princess a makeover? :lipstick: Fork- and submit a pull request! :ribbon:
