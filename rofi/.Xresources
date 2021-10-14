@@ -1,0 +1,13 @@
+! Wild Cherry theme for rofi.
+!
+! Created by [JPYamamoto](https://github.com/JPYamamoto)
+!
+! Original Wild Cherry theme:
+!   https://github.com/mashaal/wild-cherry
+
+rofi.color-enabled: true
+! State:           'bg',    'fg',    'bgalt', 'hlbg',  'hlfg'
+rofi.color-window: #2b1e32, #2b1e32, #4a1188
+rofi.color-normal: #2b1e32, #ffffff, #2b1e32, #4a1188, #ffffff
+rofi.color-active: #2b1e32, #ffd165, #2b1e32, #4a1188, #ffd165
+rofi.color-urgent: #2b1e32, #d94085, #2b1e32, #4a1188, #d94085
