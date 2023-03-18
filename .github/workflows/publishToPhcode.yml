@@ -1,0 +1,16 @@
+name: Publish extension to Brackets/phcode.dev extension store
+# https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#release
+on:
+  release:
+    types:
+      - edited
+      - published
+
+jobs:
+  build-tasks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: release to extension store
+        run: |
+          echo "$GITHUB_REF repo=${{github.event.repository.full_name}}"
+          curl --fail-with-body https://publish.phcode.dev/publishGithubRelease?releaseRef=${{github.event.repository.full_name}}:$GITHUB_REF
